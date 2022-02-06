@@ -2,6 +2,8 @@
 
 - 📫 How to reach me: mridulvasudeva.03@gmail.com
 - 😄 Pronouns: He/His
+
+Let's Connect Over:
 - [LinkedIn](https://www.linkedin.com/in/mridul-vasudeva-325a55222/)
 - [Instagram](https://www.instagram.com/mridul_vasudeva/)
 
