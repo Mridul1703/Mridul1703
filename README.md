@@ -41,7 +41,7 @@
 <br/>
 
 
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Mridul1703?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Mridul1703?tab=followers"><img src="https://img.shields.io/github/followers/Mridul1703?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center">
     <a href="https://github.com/Mridul1703/github-readme-streak-stats">
