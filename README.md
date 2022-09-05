@@ -18,24 +18,24 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mridul-vasudeva-325a55222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/MridulVasudeva"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mridul_vasudeva/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/mridul-vasudeva-325a55222/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/MridulVasudeva" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/mridul_vasudeva/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.cprogramming.com/">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>    
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://nodejs.org/en/"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"> </a>
+    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"> </a>
 </p>
 
 <br/>
