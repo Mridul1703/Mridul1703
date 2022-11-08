@@ -18,9 +18,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mridul-vasudeva-325a55222/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/MridulVasudeva" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mridul_vasudeva/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/mridul-vasudeva-325a55222/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
+<a href = "https://twitter.com/MridulVasudeva" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/> </a>
+<a href = "https://www.instagram.com/mridul_vasudeva/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/> </a>
 
 
 ## 🚀 Languages and Tools:
@@ -35,6 +35,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"> </a>
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"> </a>
 </p>
 
